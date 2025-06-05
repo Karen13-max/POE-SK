@@ -1,0 +1,372 @@
+
+🔁 Iniciando respaldo automático (2025-06-03 20:47:08)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro el varon
+Género: comedia
+Páginas: 980
+Año_publicacion: 2008
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 20:47:08)
+
+🔁 Iniciando respaldo automático (2025-06-03 20:47:28)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro el varon
+Género: comedia
+Páginas: 980
+Año_publicacion: 2008
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 20:47:28)
+
+🔁 Iniciando respaldo automático (2025-06-03 20:47:48)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 20:47:48)
+
+🔁 Iniciando respaldo automático (2025-06-03 20:49:30)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 20:49:30)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:19:31)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:19:31)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:19:51)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:19:51)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:22:04)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:22:04)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:22:14)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:22:14)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:22:24)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Autor respaldado]
+ID: 3
+Nombre: Raul
+Nacionalidad: Colombia
+Edad: 33
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:22:24)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:22:34)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Autor respaldado]
+ID: 3
+Nombre: Raul
+Nacionalidad: Colombia
+Edad: 33
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:22:34)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:22:44)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Autor respaldado]
+ID: 3
+Nombre: Raul
+Nacionalidad: Colombia
+Edad: 33
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:22:44)
+
+🔁 Iniciando respaldo automático (2025-06-03 21:22:54)
+[Autor respaldado]
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+[Autor respaldado]
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+[Autor respaldado]
+ID: 3
+Nombre: Raul
+Nacionalidad: Venezuela
+Edad: 33
+
+[Libro respaldado]
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+[Libro respaldado]
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
+Respaldo completado correctamente (2025-06-03 21:22:54)

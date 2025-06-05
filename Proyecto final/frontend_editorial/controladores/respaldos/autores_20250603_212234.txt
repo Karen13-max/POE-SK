@@ -1,0 +1,15 @@
+ID: 1
+Nombre: juan
+Nacionalidad: Cali
+Edad: 45
+
+ID: 2
+Nombre: Karen
+Nacionalidad: Colombia
+Edad: 19
+
+ID: 3
+Nombre: Raul
+Nacionalidad: Colombia
+Edad: 33
+

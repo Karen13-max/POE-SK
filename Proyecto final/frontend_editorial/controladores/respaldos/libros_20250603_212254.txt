@@ -1,0 +1,12 @@
+ID: 1
+Título: pedro araña
+Género: comedia
+Páginas: 980
+Año_publicacion: 89
+
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+

@@ -1,0 +1,12 @@
+ID: 1
+Título: pedro el varon
+Género: comedia
+Páginas: 980
+Año_publicacion: 2008
+
+ID: 2
+Título: k
+Género: u
+Páginas: 5
+Año_publicacion: 5
+
